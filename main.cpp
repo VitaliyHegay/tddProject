@@ -2,6 +2,7 @@
 
 int main()
 {
+    //Wow
     Printing::Printer printer;
 
     printer.print(" Hello Word! ");
