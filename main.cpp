@@ -3,6 +3,7 @@
 int main()
 {
     //Wow
+    //This is amazing
     Printing::Printer printer;
 
     printer.print(" Hello Word! ");
